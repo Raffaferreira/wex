@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\WEXtesting\bin\Debug\net6.0\WEXtesting.exe
+C:\Users\PC\Documents\GitHub\WEXtesting\bin\Debug\net6.0\WEXtesting.deps.json
+C:\Users\PC\Documents\GitHub\WEXtesting\bin\Debug\net6.0\WEXtesting.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\WEXtesting\bin\Debug\net6.0\WEXtesting.dll
+C:\Users\PC\Documents\GitHub\WEXtesting\bin\Debug\net6.0\WEXtesting.pdb
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.dll
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\refint\WEXtesting.dll
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.pdb
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\WEXtesting.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\WEXtesting\obj\Debug\net6.0\ref\WEXtesting.dll
